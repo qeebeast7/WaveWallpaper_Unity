@@ -1,0 +1,1 @@
+{"Density":100.0,"Amp":30.0,"Strength":2.0,"WaveWidth":0.20000000298023225,"WaveSpeed":0.5,"VideoPath":"file://D:/Projects/PR/彼安汀-cgpc.mp4","Mute":0,"Volume":0.20000000298023225}
